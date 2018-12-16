@@ -1,5 +1,3 @@
-what goes in here is very important :)
+# hi this is git-a-rumi
 
-please don't forget about me </3
-
-
+> this will gitchu a rumi
